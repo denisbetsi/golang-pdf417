@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/jung-kurt/gofpdf"
-	"github.com/jung-kurt/gofpdf/contrib/barcode"
+	"github.com/denisbetsi/gofpdf"
+	"github.com/denisbetsi/gofpdf/contrib/barcode"
 	"fmt"
 )
 
