@@ -1,4 +1,4 @@
-module github.com/ruudk/golang-pdf417
+module github.com/denisbetsi/golang-pdf417
 
 require (
 	github.com/boombuler/barcode v1.0.0
